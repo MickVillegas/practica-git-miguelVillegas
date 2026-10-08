@@ -15,6 +15,7 @@ CAPTURA 3A: guarda una captura de pantalla del archivo con las marcas de conflic
 
 CAPTURA 3B: guarda una captura de pantalla del archivo con el Pull Request ya fusionado sin conflicto.
 
+![imagen](./img/3bb.jfif)
 
 CAPTURA 4: guarda una captura de los comentarios de revisión y de la aprobación final.
 
